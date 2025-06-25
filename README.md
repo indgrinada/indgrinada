@@ -1,4 +1,4 @@
-## hi
+# hi
 🌱 i’m practicing programming 🌱
 
 <!--
