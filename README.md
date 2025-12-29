@@ -1,2 +1,2 @@
 ### hi
-i’m a huge primus fan practicing programming 
+i’m a primus fan practicing programming 
