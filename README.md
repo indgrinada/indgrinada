@@ -1,2 +1,3 @@
-### hi
-i’m a primus fan practicing programming 
+# oioi! 
+estou praticando python e ciência de dados.
+
