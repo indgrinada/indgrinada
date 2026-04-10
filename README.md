@@ -1,4 +1,4 @@
-# oioi! 
+# olá! 
 estou praticando python e ciência de dados.
 
 ## habilidades
