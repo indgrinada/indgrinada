@@ -1,8 +1,8 @@
 # olá! 
 estou praticando python e ciência de dados.
 
-## habilidades
-[![skills](https://skillicons.dev/icons?i=py,c,postgres,mongo)](https://skillicons.dev)
+## tecnologias
+[![skills](https://skillicons.dev/icons?i=py,c,mysql,vscode)](https://skillicons.dev)
 
 ## contatos
 discord: alt__168 <br>
