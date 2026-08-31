@@ -1,5 +1,5 @@
 # olá! 
-estou praticando python e ciência de dados.
+estou praticando python e dados.
 
 ## tecnologias
 [![skills](https://skillicons.dev/icons?i=py,c,mysql,vscode)](https://skillicons.dev)
